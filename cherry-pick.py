@@ -8,7 +8,6 @@ import tempfile
 import urllib.request
 import urllib.error
 
-# TODO: read thse from a file
 cherry_picks = [
     '5a5ebecafe',
     '2722efafe8',
